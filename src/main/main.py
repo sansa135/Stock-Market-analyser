@@ -8,7 +8,7 @@ from analytics import (
 )
 import tkinter as tk
 
-API_KEY = "3JT84K8VX0AD8BYH"
+API_KEY = "YOUR_API_KEY_HERE"
 
 
 def get_trend(points):
